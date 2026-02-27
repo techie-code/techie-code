@@ -4,7 +4,7 @@
 
 ---
 
-## 👩‍🚀 Mission Control — About Me
+## 👩‍🚀 Mission Control - About Me
 
 - 🎓 Masters in **Statistical Data Science** (current)
 - 💼 **3 years at IBM** as a Data Engineer
