@@ -10,7 +10,6 @@
 - 💼 **3 years at IBM** as a Data Engineer
 - 🔭 Currently building projects at the intersection of **Statistics, ML, and Data Engineering**
 - 🌱 Learning **Machine Learning Engineering** and **AI Systems**
-- 🏆 **7+ Hackathon Projects** built and deployed
 - 💡 I believe in understanding things from scratch — not just using black boxes
 
 ---
